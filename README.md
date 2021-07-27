@@ -1,3 +1,7 @@
+## Deployed Link
+
+[HERE](https://essi5764.github.io/React_Quiz_App/)
+
 This is a small project in typescript that consumes a third party API to build a quiz app. This is my personal version of the youtube tutorial from freecodecamp.
 
 ![PROJECT](./src/images/quiz.jpg)
