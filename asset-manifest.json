@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Essi5764/React_Quiz_App.git/static/js/main.14b64e78.chunk.js",
+    "main.js.map": "/Essi5764/React_Quiz_App.git/static/js/main.14b64e78.chunk.js.map",
+    "runtime-main.js": "/Essi5764/React_Quiz_App.git/static/js/runtime-main.a697dfc2.js",
+    "runtime-main.js.map": "/Essi5764/React_Quiz_App.git/static/js/runtime-main.a697dfc2.js.map",
+    "static/js/2.0bf391d5.chunk.js": "/Essi5764/React_Quiz_App.git/static/js/2.0bf391d5.chunk.js",
+    "static/js/2.0bf391d5.chunk.js.map": "/Essi5764/React_Quiz_App.git/static/js/2.0bf391d5.chunk.js.map",
+    "index.html": "/Essi5764/React_Quiz_App.git/index.html",
+    "static/js/2.0bf391d5.chunk.js.LICENSE.txt": "/Essi5764/React_Quiz_App.git/static/js/2.0bf391d5.chunk.js.LICENSE.txt",
+    "static/media/sharon-mccutcheon.d7c2f09f.jpg": "/Essi5764/React_Quiz_App.git/static/media/sharon-mccutcheon.d7c2f09f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a697dfc2.js",
+    "static/js/2.0bf391d5.chunk.js",
+    "static/js/main.14b64e78.chunk.js"
+  ]
+}
